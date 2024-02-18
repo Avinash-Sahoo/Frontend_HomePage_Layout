@@ -50,7 +50,9 @@ header{
     margin-right:30px;
     font-size: 12px;
     font-family: "Open Sans regular";
-   
+}
+.link{
+    color: #828282;
 }
 nav a {
 height: 46px;
